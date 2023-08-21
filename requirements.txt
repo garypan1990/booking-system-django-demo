@@ -1,0 +1,4 @@
+django==4.2.1
+apscheduler==3.10.1
+bs4==0.0.1
+requests==2.30.0

@@ -1,0 +1,6 @@
+db.sqlite3
+/bookingSystem/__pycache__
+/mysite/__pycache__
+/bookingSystem/migrations/__pycache__
+/bookingSystem/lib/__pycache__
+/logs
